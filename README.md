@@ -84,6 +84,13 @@ Professional Full-Stack & AI Developer Profile
 ## 📈 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dojopercy&show_icons=true&theme=transparent&hide_border=true&hide=issues,contribs" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojopercy&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=dojopercy&style=flat&color=brightgreen" alt="Profile views"/> <img src="https://img.shields.io/github/followers/dojopercy?label=Followers&style=social" alt="GitHub followers" /> <img src="https://img.shields.io/github/stars/dojopercy?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" /> </p>
 
+## 🧾 Certifications
+
+- 🧠 [**Fundamentals of Building AI Agents** — Coursera](https://coursera.org/share/04b219eac2b4056e503b690f34e7dfaa)
+- 💻 [**Introduction to Software Engineering** — Coursera](https://coursera.org/share/f3136325d3f78c9054d69b54252198a4)
+- 🎓 [**Introduction to Project Management** — Coursera](https://coursera.org/share/948881df2cfa7895152540d5c4d7a82d)
+
+
 ## 📊 Weekly Coding Activity
 
 
